@@ -19,9 +19,9 @@ Risk Assessment Model Probability Estimation: Use the predicted probabilities fr
 
 Implementation details:
 
-Create your own virtual environment.
-In Jupyter or collab run the Credit_Risk.ipynb file so there you create the models.
-In VS Code install all dependicies needed for this project.
-Install Flask.
-Run app.py file in terminal -- python app.py
-Open it on localhost.
+1. Create your own virtual environment.
+2. In Jupyter or collab run the Credit_Risk.ipynb file so there you create the models.
+3. In VS Code install all dependicies needed for this project.
+4. Install Flask.
+   Run app.py file in terminal -- python app.py
+5. Open it on localhost.
